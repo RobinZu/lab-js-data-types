@@ -7,6 +7,10 @@ const s3 = "Ted";
 const s4 = "bread";
 const s5 = "and";
 
+console.log("1");
+console.log("Hello");
+
+
 // Concatenate the string variables into one new string
 
 
